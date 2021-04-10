@@ -6,6 +6,10 @@ This allows for visualization of the function at different values of w.
 
 ## Usage:
 
+Run the program with the following command:
+
+`python Window.py`
+
 Enter implicit functions with Python syntax. Numpy functions are allowed.
 
 ### Ex.
